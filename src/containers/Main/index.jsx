@@ -7,7 +7,7 @@ import { products } from '../../data/products.json'
 
 const Main = () => {
   return (
-    <main className="dark:bg-gray-900">
+    <main className="dark:bg-gray-900 bg-white">
       <Hero title={title} company={company} resume={resume}/>
       <ProductList products={products}/>
       <Contact />

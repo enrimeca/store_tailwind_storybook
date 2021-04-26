@@ -7,15 +7,9 @@ export default {
   component: Nav
 };
 
-const Template = (args) => <Nav {...args} />;
+const Template = (args) => <Nav {...args} />
 
 export const Primary = Template.bind({});
 Primary.args = {
-  options: data.items
+  options: data.items, 
 };
-
-// export const Secondary = Template.bind({});
-// Secondary.args = {
-//   options: data.items,
-//   color: 'gray'
-// };

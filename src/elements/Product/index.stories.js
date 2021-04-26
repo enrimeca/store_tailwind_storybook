@@ -1,6 +1,5 @@
 import React from 'react';
 import Product from './index';
-import Image from '../../assets/images/miel.jpg'
 
 export default {
   title: 'Element/Product',

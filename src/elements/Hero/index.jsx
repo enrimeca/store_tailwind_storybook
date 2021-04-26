@@ -3,7 +3,7 @@ import Bees from '../../assets/images/bees.jpg';
 
 const Hero = ({title, company, resume}) => {
   return (
-    <section className="md:flex mx-auto overflow-hidden max-w-7xl">
+    <section className="md:flex mx-auto overflow-hidden max-w-7xl bg-white dark:bg-gray-900">
       <figure className="md:flex-shrink-0 my-auto">
         <img className="h-96 w-full object-cover md:w-80" src={Bees} alt="Bees" />
       </figure>
