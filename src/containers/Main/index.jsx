@@ -7,9 +7,9 @@ import { products } from '../../data/products.json'
 
 const Main = () => {
   return (
-    <main className="dark:bg-gray-900 bg-white">
-      <Hero title={title} company={company} resume={resume}/>
-      <ProductList products={products}/>
+    <main className="dark:bg-gray-900 bg-white max-h-screen overflow-y-scroll snap snap-y snap-mandatory">
+      <Hero title={title} company={company} resume={resume} />
+      <ProductList products={products} />
       <Contact />
     </main>
   )
