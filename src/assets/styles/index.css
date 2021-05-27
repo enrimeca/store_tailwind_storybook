@@ -34,7 +34,4 @@
   .snap-mandatory {
     --scroll-snap-constraint: mandatory;
   }
-  .snap-start {
-    scroll-snap-align: start;
-  }
 }

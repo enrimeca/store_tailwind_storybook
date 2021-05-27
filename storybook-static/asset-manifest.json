@@ -1,12 +1,12 @@
 {
   "files": {
     "0.debc7fe9.iframe.bundle.js": "./0.debc7fe9.iframe.bundle.js",
-    "main.css": "./static/css/main.a6383755.chunk.css",
-    "main.js": "./main.2d8be577.iframe.bundle.js",
-    "main.css.map": "./static/css/main.a6383755.chunk.css.map",
+    "main.css": "./static/css/main.0c12e916.chunk.css",
+    "main.js": "./main.0b16409b.iframe.bundle.js",
+    "main.css.map": "./static/css/main.0c12e916.chunk.css.map",
     "runtime~main.js": "./runtime~main.a3df9ce6.iframe.bundle.js",
-    "vendors~main.js": "./vendors~main.7a464657.iframe.bundle.js",
-    "vendors~main.js.map": "./vendors~main.7a464657.iframe.bundle.js.map",
+    "vendors~main.js": "./vendors~main.d0fd30e4.iframe.bundle.js",
+    "vendors~main.js.map": "./vendors~main.d0fd30e4.iframe.bundle.js.map",
     "4.6510482f.iframe.bundle.js": "./4.6510482f.iframe.bundle.js",
     "4.6510482f.iframe.bundle.js.map": "./4.6510482f.iframe.bundle.js.map",
     "5.eaed2945.iframe.bundle.js": "./5.eaed2945.iframe.bundle.js",
@@ -19,12 +19,12 @@
     "static/media/bees.35144c3a.jpg": "./static/media/bees.35144c3a.jpg",
     "static/media/logo.00be77de.png": "./static/media/logo.00be77de.png",
     "static/media/miel.a564ddd4.jpg": "./static/media/miel.a564ddd4.jpg",
-    "vendors~main.7a464657.iframe.bundle.js.LICENSE.txt": "./vendors~main.7a464657.iframe.bundle.js.LICENSE.txt"
+    "vendors~main.d0fd30e4.iframe.bundle.js.LICENSE.txt": "./vendors~main.d0fd30e4.iframe.bundle.js.LICENSE.txt"
   },
   "entrypoints": [
     "runtime~main.a3df9ce6.iframe.bundle.js",
-    "vendors~main.7a464657.iframe.bundle.js",
-    "static/css/main.a6383755.chunk.css",
-    "main.2d8be577.iframe.bundle.js"
+    "vendors~main.d0fd30e4.iframe.bundle.js",
+    "static/css/main.0c12e916.chunk.css",
+    "main.0b16409b.iframe.bundle.js"
   ]
 }

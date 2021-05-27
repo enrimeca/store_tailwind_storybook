@@ -16,3 +16,8 @@ Primary.args = {
   image: Miel,
   description: 'Explicabo veniam nesciunt ex sint cum eum voluptatem, placeat necessitatibus vitae exercitationem quas rem dicta optio.'
 };
+
+export const Secondary = Template.bind({});
+Secondary.args = {
+  name: null
+};
