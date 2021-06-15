@@ -13,9 +13,9 @@ const Nav = ({ options }) => {
 
   return (
     <nav className="bg-yellow-600 dark:bg-black">
-      <section className="max-w-7xl mx-auto flex items-center justify-between px-6 py-2">
+      <section className="max-w-7xl mx-auto flex items-center justify-between px-6 py-1">
         <figure className="flex-shrink-0">
-          <img className="h-16" src={Logo} alt="Logo" />
+          <img className="h-18" src={Logo} alt="Logo" />
         </figure>
         <div className="hidden md:block">
           {options?.map((item, index) => <a key={index} href="/" className="item-menu">{item}</a>)}

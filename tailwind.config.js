@@ -4,6 +4,7 @@ module.exports = {
   theme: {
     extend: {
       height: {
+        '18': '4.5rem',
         '120': '34rem'
       },
       keyframes: {

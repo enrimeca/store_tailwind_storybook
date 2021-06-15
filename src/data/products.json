@@ -1,23 +1,23 @@
 {
   "products" : [
     {
-      "name": "Miel de abeja",
-      "image": "/images/miel.jpg",
+      "name": "Camera",
+      "image": "/images/camera.jpg",
       "description": "Explicabo veniam nesciunt ex sint cum eum voluptatem, placeat necessitatibus vitae exercitationem quas rem dicta optio."      
     },
     {
-      "name": "Algarrobina",
-      "image": "/images/algarrobina.jpg",
+      "name": "Cassette",
+      "image": "/images/cassette.jpg",
       "description": "Voluptas consequatur pariatur numquam doloremque, esse rerum error repellendus tempora laboriosam officiis."
     },
     {
-      "name": "Polen",
-      "image": "/images/polen.jpg",
+      "name": "Radio",
+      "image": "/images/radio.jpg",
       "description": "Quaerat magni debitis neque, quas quidem in vero, dicta quis expedita labore esse, libero ad."
     },
     {
-      "name": "Propóleo",
-      "image": "/images/propoleo.jpg",
+      "name": "Typewriter",
+      "image": "/images/typewriter.jpg",
       "description": "Totam at voluptas ab commodi libero, aperiam molestias pariatur fugit rerum quam quas sapiente possimus. Nostrum fugit ut expedita."
     },
     {
